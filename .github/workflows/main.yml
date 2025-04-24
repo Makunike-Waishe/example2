@@ -17,4 +17,4 @@ jobs:
         distribution: 'temurin'
     - name: Build with Gradle
       run: ./gradlew build
-      working-directory: BiTETiME
+      working-directory: bITETiMEapk
